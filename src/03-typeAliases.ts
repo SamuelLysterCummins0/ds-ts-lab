@@ -87,6 +87,6 @@ import {
         }
         return friendsArray;
     }
-
+    
     console.log(getBuddyListFriends(myFootballBuddies));
   
