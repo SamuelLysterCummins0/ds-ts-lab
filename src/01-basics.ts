@@ -1,5 +1,6 @@
 import {Friend, Colleague, ColleagueHistory } from './myTypes'
 
+
 const friend1: Friend = {
     name: "Paul Fleming",
     phone: "087-12345",
